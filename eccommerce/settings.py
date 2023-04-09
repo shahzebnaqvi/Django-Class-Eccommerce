@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 
-ALLOWED_ORIGINS = ['http://*', 'https://*','https://eccommerce-production.up.railway.app']
+ALLOWED_ORIGINS = ['http://*', 'https://*','https://django-class-eccommerce-production.up.railway.app']
 CSRF_TRUSTED_ORIGINS = ALLOWED_ORIGINS.copy()
 # Application definition
 
